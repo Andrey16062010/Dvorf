@@ -1,0 +1,42 @@
+body{
+background-color:#1b1b1b;
+color:white;
+
+}
+
+
+header{
+background: url(https://i.postimg.cc/yYsRnXRS/1.jpg) no-repeat center center / cover;
+padding:230px 40px
+}
+nav ul{
+list-style-type:none;
+padding:0;
+margin:0;
+display:flex;
+justify-content:space-around
+}
+nav ul li{
+margin:0 15px;
+}
+nav ul li a{
+text-decoration:none;
+color:#333;
+font-size:18px
+}
+
+
+main {
+
+}
+
+.container{
+display: flex;
+flex-direction: row;
+justify-content: space-between; 
+gap: 30px;
+}
+
+p2{
+max-width: 400px;
+}
